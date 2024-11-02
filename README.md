@@ -28,21 +28,48 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td>Extracting Structured Information Using LLMs (Still working, codes not shared 🤫)</td>
+      <td>💸📄 This collaborative project develops a chatbot user interface to convert natural language queries of financial data into the corresponding SQL queries using Large Language Models.</td>
     </tr>
     <tr>
       <td>
 	<p align="center"><a href="https://github.com/YolandaFYL/Kid-Centric-Recipe-Analysis">
-	<img alt="Kid-Centric Recipe Analysis" src="https://github.com/RitaYujiaWu/RitaYujiaWu/blob/main/kid_recipe_readme.png" width="200"/>
-	<b>Kid-Centric Recipe Analysis</b></sub></a></p>
+	<img alt="Kid_Recipe_image" src="https://github.com/RitaYujiaWu/RitaYujiaWu/blob/main/kid_recipe_readme.png" width="200"/><br>Kid-Centric Recipe Analysis</a></p> 
       </td>
-      <td> 👶🏻🍴 This collaborative project aims to investigate the features of recipes that make them kid-friendly by focusing on the recipe’s sodium content, 
-	      balanced nutrients, and the preparation process by using statistical and machine learning tools.</td>
+      <td>👶🏻🍴 This collaborative project aims to investigate the features of recipes that make them kid-friendly by focusing on the recipe’s sodium content, balanced nutrients, and the preparation process by using statistical and machine learning tools.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td>
+	<p align="center"><a href="https://github.com/RitaYujiaWu/Energy-and-Signal-Noise-Prediction-Model">
+	<img alt="HPGe_image" src="https://github.com/RitaYujiaWu/RitaYujiaWu/blob/main/HPGe_readme.png" width="200"/><br>HPGe - Energy and Signal Noise Prediction Model</a></p> 
+      </td>
+      <td>⚙️📈 This individual project is based on High-Purity Germanium (HPGe) detector and focuses on building two prediction
+models: to estimate the energy through regression and to provide a "classification score" for detector noise.</td>
+    </tr>
+    <tr>
+      <td>
+	<p align="center"><a href="https://github.com/RitaYujiaWu/Basic-Image-Processing-Application">
+	<img alt="HPGe_image" src="https://github.com/RitaYujiaWu/RitaYujiaWu/blob/main/image_app_readme.png" width="200"/><br>Basic Image Processing Application</a></p> 
+      </td>
+      <td>🌇📱 This collaborative project developed a basic image-processing app with different parts including various image-
+processing methods, stimulation of a monetized app, and implementation of a KNN classifier to predict image labels.</td>
+    </tr>
+    <tr>
+      <td>
+	<p align="center"><a href="https://github.com/RitaYujiaWu/Dinosaur-Legacy-Through-Data">
+	<img alt="HPGe_image" src="https://github.com/RitaYujiaWu/RitaYujiaWu/blob/main/dinosaur_readme.png" width="200"/><br>Dinosaur Legacy Through Data - Triassic to Cretaceous</a></p> 
+      </td>
+      <td>🦖📊 This collaborative DataHacks project focuses on visualizing the dinosaur data from the Triassic to the Cretaceous, analyzing and rationalizing the trend of dinosaur types and characteristics from temporal and geographical aspects. This project won the best presentation awards at the DataHacks</td>
     </tr>
   </tbody>
 </table>
+
+<h3>LOVE to talk! Where to find me?</h3>
+<p>
+<a href="https://github.com/RitaYujiaWu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yujia-wu-981057262/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/rittttttaw/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+</p>
+
+------------
+<p align="center">This <i>README</i> file referenced this marvelous idea from Thomas: <a href="https://github.com/thmsgbrt">https://github.com/thmsgbrt</a>
