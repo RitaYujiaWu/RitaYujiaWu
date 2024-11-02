@@ -4,9 +4,9 @@
 <p>Welcome to my page! </br> I'm Rita from <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13"/> <b>Beijing, China</b>, currently studying, working, and living in <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>California, United States</b>. </p>
 <h3>Coding Languages/Tools I'm familiar with</h3>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> 
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> 
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
