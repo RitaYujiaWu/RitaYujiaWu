@@ -18,7 +18,7 @@
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 
 </p>
-<h3>My projects (Ordered Descendingly) </h3>
+<h3>Projects (Ordered Descendingly) </h3>
 <table>
   <thead align="center">
     <tr border: none;>
