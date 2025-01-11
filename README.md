@@ -59,7 +59,7 @@ processing methods, stimulation of a monetized app, and implementation of a KNN 
 	<p align="center"><a href="https://github.com/RitaYujiaWu/Dinosaur-Legacy-Through-Data">
 	<img alt="HPGe_image" src="https://github.com/RitaYujiaWu/RitaYujiaWu/blob/main/dinosaur_readme.png" width="200"/><br>Dinosaur Legacy Through Data - Triassic to Cretaceous</a></p> 
       </td>
-      <td>🦖📊 This collaborative DataHacks project focuses on visualizing the dinosaur data from the Triassic to the Cretaceous, analyzing and rationalizing the trend of dinosaur types and characteristics from temporal and geographical aspects. This project won the best presentation awards at the DataHacks</td>
+      <td>🦖📊 This collaborative DataHacks project focuses on visualizing the dinosaur data from the Triassic to the Cretaceous, analyzing and rationalizing the trend of dinosaur types and characteristics from temporal and geographical aspects. This project won the best presentation awards at the DataHacks.</td>
     </tr>
   </tbody>
 </table>
