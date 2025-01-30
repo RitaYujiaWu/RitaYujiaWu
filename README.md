@@ -28,8 +28,11 @@
   </thead>
   <tbody>
     <tr>
-      <td>Extracting Structured Information Using LLMs (Still working, codes not shared 🤫)</td>
-      <td>💸📄 This collaborative project develops a chatbot user interface to convert natural language queries of financial data into the corresponding SQL queries using Large Language Models.</td>
+      <td>
+	      <p align="center"><a href="https://github.com/PIMCO1B-BTTAI/PIMCO-Text2SQL">
+	<img alt="Text_2_SQL_image" src="https://github.com/RitaYujiaWu/RitaYujiaWu/blob/main/BTTAI_readme.png" width="200"/><br>Extracting Structured Information Using LLMs</a></p> 
+      </td>
+      <td>💸📄 This collaborative project with PIMCO, BTT, and UCLA develops a chatbot user interface to convert natural language queries of financial data into the corresponding SQL queries using Large Language Models.</td>
     </tr>
     <tr>
       <td>
