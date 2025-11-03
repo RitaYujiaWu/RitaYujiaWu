@@ -32,8 +32,7 @@
 	      <p align="center"><a href="https://huggingface.co/yzha/vision-g1">
 	<img alt="visiong1_image" src="https://github.com/RitaYujiaWu/RitaYujiaWu/blob/main/visiong1.png" width="200"/><br>Vision-G1</a></p> 
       </td>
-      <td>👀🤔 We build a comprehensive RLready visual reasoning dataset from 46 data sources across 8 dimensions, covering a wide range of tasks such as infographic, mathematical, spatial, cross-image, graphic user interface, medical, common sense, and general science. We propose an influence function-based data selection and difficulty-based filtering strategy to identify high-quality training samples from this dataset. Subsequently, we train the VLM, referred to as Vision-G1, using multi-round RL with a data curriculum to iteratively improve its visual reasoning capabilities. Our model achieves state-of-the-art performance across various visual reasoning benchmarks, outperforming similar-sized VLMs and even proprietary models like GPT-4o and Gemini-1.5
-Flash.</td>
+      <td>👀🤔 We build a comprehensive RLready visual reasoning dataset from 46 data sources across 8 dimensions, covering a wide range of tasks. We propose an influence function-based data selection and difficulty-based filtering strategy to identify high-quality training samples from this dataset. Subsequently, we train the VLM, referred to as Vision-G1, using multi-round RL with a data curriculum to iteratively improve its visual reasoning capabilities. Our model achieves state-of-the-art performance across various visual reasoning benchmarks, outperforming similar-sized VLMs and even proprietary models like GPT-4o and Gemini-1.5 Flash.</td>
     </tr>
 	<tr>
       <td>
