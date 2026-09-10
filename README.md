@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Rita from <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13"/> <b>Beijing, China</b>, currently studying, working, and living in <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>Massachusetts, United States</b>. </p>
+<p>Welcome to my page! </br> I'm Yujia from <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13"/> <b>Beijing, China</b>, currently studying, working, and living in <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>Massachusetts, United States</b>. </p>
 <h3>Coding Languages/Tools I'm familiar with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
